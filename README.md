@@ -1,9 +1,9 @@
 # 图片预加载
 实现图片的预加载，并使用jquery封装成插件，其中有三个实例展示：
 
-- 图片无序预加载，翻页展示，loading显示百分比进度，加载完显示图片
-- qq表情无序预加载，打开展示，显示loading加载页，加载完所有表情图片，显示表情列表
-- 漫画有序预加载，翻页展示
+- 图片无序预加载，翻页展示，loading显示百分比进度，加载完显示图片  [预览](https://zheninglin.github.io/PicturePreLoading/unorderPreLoad.html)
+- qq表情无序预加载，打开展示，显示loading加载页，加载完所有表情图片，显示表情列表 [预览](https://zheninglin.github.io/PicturePreLoading/qqExpressionPreLoad.html)
+- 漫画有序预加载，翻页展示 [预览](https://zheninglin.github.io/PicturePreLoading/orderPreLoad.html)
 
 ### 无序预加载代码
 ``` bash
